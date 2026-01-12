@@ -12,5 +12,6 @@ JSON
 Learning backend development with Python
 Building small projects to practice APIs and data handling
 Improving problem-solving skills
+
 🤝 Connect
 Email : ngkgwadi@gmail.com
