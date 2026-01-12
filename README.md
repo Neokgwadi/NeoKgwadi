@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**Neokgwadi/NeoKgwadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Neo 👋
+Computer Science student focused on software development. I enjoy building projects, learning how systems work, and improving my fundamentals.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack
+Python
+Git & GitHub
+APIs (REST)
+JSON
+📌 Currently
+Learning backend development with Python
+Building small projects to practice APIs and data handling
+Improving problem-solving skills
+🤝 Connect
+Email : ngkgwadi@gmail.com
