@@ -7,6 +7,7 @@ Python
 Git & GitHub
 APIs (REST)
 JSON
+
 📌 Currently
 Learning backend development with Python
 Building small projects to practice APIs and data handling
